@@ -1,5 +1,5 @@
 def main():
-   print("Keep it logically awesome.")
+   print("Keep it logically awesome. Always")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
